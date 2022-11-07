@@ -84,7 +84,7 @@
 ## **🌠You can find me on:**
 *Click on the image to be redirected*
 
-<a href="https://twitter.com/MyNickIsNick_"><img alt=Twitter src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+<a href="https://twitter.com/tuzin_dev"><img alt=Twitter src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
 <a href="[https://www.linkedin.com/in/nicolas-gabriel/](https://www.linkedin.com/in/arthur-victor-a2141a227/)">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
